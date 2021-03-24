@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/SQLiteRepair.svg?style=flat)](https://cocoapods.org/pods/SQLiteRepair)
 [![Platform](https://img.shields.io/cocoapods/p/SQLiteRepair.svg?style=flat)](https://cocoapods.org/pods/SQLiteRepair)
 
-This is the copy of [wcdb SQLiteRepairKit](https://github.com/Tencent/wcdb/tree/master/repair).
+This is the copy of [wcdb v1.0.8.2 SQLiteRepairKit](https://github.com/Tencent/wcdb/tree/v1.0.8.2/repair).
 
 Sqliterk is a efficient, self-contain repair kit for restoring corrupted SQLite based database.
 It's basically used in WCDB, which is an efficient, complete, easy-to-use mobile database framework.
